@@ -6,6 +6,8 @@
 
 ![Logo](figure/viettel_semicon_logo.jpg)
 
+**Technology/Process:** TSMC 65nm
+
 **Date (last upadated):** 26th June 2025  
 
 ## Abstract
