@@ -8,7 +8,7 @@
 
 **Technology/Process:** TSMC 65nm
 
-Project Duration: May, 2025 to June, 2025
+**Project Duration:** May, 2025 to June, 2025
 
 **Date (lastest upadated):** 26th June 2025  
 
