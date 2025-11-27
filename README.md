@@ -8,7 +8,9 @@
 
 **Technology/Process:** TSMC 65nm
 
-**Date (last upadated):** 26th June 2025  
+Project Duration: May, 2025 to June, 2025
+
+**Date (lastest upadated):** 26th June 2025  
 
 ## Abstract
 This project details the design, implementation, and verification of a high-performance CMOS Bandgap Reference (BGR) circuit targeting a stable 1.2V output. The architecture incorporates advanced techniques to achieve stringent performance goals, including higher-order temperature curvature correction to achieve a low temperature coefficient...
