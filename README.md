@@ -6,7 +6,7 @@
 
 ![Logo](figure/viettel_semicon_logo.jpg)
 
-**Technology/Process:** TSMC 65nm
+**Technology/Process:** 65nm
 
 **Project Duration:** May, 2025 to June, 2025
 
